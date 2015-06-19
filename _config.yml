@@ -7,9 +7,9 @@ app:
   # an avatar or logo (optional)
   logo: "/images/logo.png"
   # author will appear under the avatar (optional)
-  author: "Pizzeria"
+  author: "Название эппа"
   # tagline will appear under the title (optional)
-  tagline: "Любимая пицца."
+  tagline: "Короткое описание эппа (одно предложение)."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
